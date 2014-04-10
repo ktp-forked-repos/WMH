@@ -1,0 +1,10 @@
+Sprawozdanie pomija wiele szczego³ów algorytmu.
+- jaki kszta³t i jakie paramtery funkcji przynale¿noœci bêda rozpatrzone
+- jaki schemat wnioskowania rozmytego bêdzie zastosowany (Mamdani?)
+- jakie techniki wyostrzania bêd¹ brane pod uwagê
+
+Matlab daje bardzo du¿o mo¿liwoœci i dlatego w sposób uzasadniony nale¿y wprowadzic ograniczenia na iloœc potencjalnych rozwiazan projektu.
+
+Wydaje mi siê, ¿e prêdkoœc samochodu mo¿e by paramerem wejœciowym utrudniaj¹cym dostrojenie algorytmu. Lepsza by³aby prêdkoœc wzglêdem poprzedzaj¹cego samochodu. Je¿eli przyjmujemy, ¿e znamy odleg³oœc pojazdów, to równie dobre mo¿emy za³o¿yc znajomoœc ich prêdkoœci wzglêdnej. Alternatywnie, na podsatwie zmiany odlegloœci w czasie mo¿emy oszacowa prêdkoœc wzgledn¹.
+
+Sprawozdanie nr 3 (20pkt). Raport koñcowy. Dzia³aj¹cy program z udokumentowanym kodem. Wyniki testów poprawnoœci i jakoœci algorytmów. Wnioski. Wykaz literatury.
